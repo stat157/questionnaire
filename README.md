@@ -18,7 +18,7 @@ Then copy the example config file to your home directory, but named
 
 Edit the example config file `~/stat157.cfg` with:
 
-    vi ~/stat157.cfg
+    nano ~/stat157.cfg
 
 NOTE: Do **NOT** put your actual password into example.cfg! And
 definitely **DO NOT** check it into github!
