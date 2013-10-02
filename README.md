@@ -26,6 +26,16 @@ two columns of the spreadsheet data: 1) the column labeled "What is
 your learning style?" and 2) any other column of your choosing that
 you feel helps give us insight into the people in the class.
 
+The data that we have available in the spreadsheet comes from the real
+world, which means the data is **dirty**. Your job before you
+visualize the data is to clean it up and transform it into a form that
+the analyzers and visualizers in your group can use.
+
+Specifically, this is the data that YOU submitted via the Google Form
+as part of the Questionnaire for this course so we can better
+understand you, your skills, and where you're headed after you
+graduate. All identifying data has been redacted from this data!
+
 
 Grading
 -------
