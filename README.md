@@ -37,6 +37,24 @@ understand you, your skills, and where you're headed after you
 graduate. All identifying data has been redacted from this data!
 
 
+The Data
+--------
+
+The data you use comes from this redacted Google Spreadsheet adapted
+from the Questionnaire you filled out:
+
+http://goo.gl/Cplm9O
+
+The document has been shared with your @berkeley.edu account **ONLY**
+and you must use your bConnected key to access it. You should make
+sure you can open the above link in your browser to verify you can
+access the document with your account.
+
+NOTE: Do **NOT** simply copy & paste or export a CSV file from the
+document. You must use the provided example IPython Notebook to start
+with to access the data via the Google API.
+
+
 Grading
 -------
 
