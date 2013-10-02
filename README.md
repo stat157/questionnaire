@@ -71,6 +71,7 @@ someone else *without* further instructions or help from you. If you
 cannot fully automate the process, then provide step-by-step
 instructions.
 
+
 QUESTIONS?!?!?!?!
 -----------------
 You will probably have a lot of questions. You may also find a few
@@ -78,6 +79,7 @@ bugs. Please use the Github Issue Tracker for this repository to ask
 questions and submit bugs:
 
 https://github.com/stat157/questionnaire/issues
+
 
 Preliminary Setup Steps
 -----------------------
