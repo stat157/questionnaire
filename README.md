@@ -129,9 +129,8 @@ To be successful you will need to collaborate within your horizontal
 
 You have a better chance of succeeding with this assignment by running
 `git commit` frequently on your local system and by running `git push`
-often. If you're not sure what this means or
-
-Use resources such as GitHub Help, StackOverflow, IRC, and other
+often. If you're not sure what this means or have any questions, use
+resources such as GitHub Help, StackOverflow, IRC, and other
 resources that we configured in the first weeks of the class.
 
 Keep notes about your process. If you are not able to make your
