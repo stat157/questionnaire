@@ -79,8 +79,21 @@ be your [bConnected key](https://kb.berkeley.edu/campus-shared-services/page.php
 NOTE: Do **NOT** put your actual password into example.cfg! And
 definitely **DO NOT** check it into github!
 
-Use `example.py` in this repository as a starting point to access the
-Google Spreadsheet data.
+Use `example.ipynb` in this repository as a starting point to access
+the Google Spreadsheet data. You should run the IPython Notebook in
+your virtual machine using this command:
+
+    ipython notebook --no-browser --ip=0.0.0.0
+
+You can auto-generate a .py file from your IPython Notebook using an
+additional argument:
+
+    ipython notebook --no-browser --ip=0.0.0.0 --script
+
+Sometimes it is convenient to easily track changes between versions of
+your script by checking in changes made to the script in git since the
+IPython Notebook is hard to inspect using a text editor instead of a
+browser.
 
 QUESTIONS?!?!?!?!
 -----------------
