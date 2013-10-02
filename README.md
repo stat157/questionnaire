@@ -53,6 +53,13 @@ someone else *without* further instructions or help from you. If you
 cannot fully automate the process, then provide step-by-step
 instructions.
 
+QUESTIONS?!?!?!?!
+-----------------
+You will probably have a lot of questions. You may also find a few
+bugs. Please use the Github Issue Tracker for this repository to ask
+questions and submit bugs:
+
+https://github.com/stat157/questionnaire/issues
 
 Preliminary Setup Steps
 -----------------------
@@ -94,14 +101,6 @@ Sometimes it is convenient to easily track changes between versions of
 your script by checking in changes made to the script in git since the
 IPython Notebook is hard to inspect using a text editor instead of a
 browser.
-
-QUESTIONS?!?!?!?!
------------------
-You will probably have a lot of questions. You may also find a few
-bugs. Please use the Github Issue Tracker for this repository to ask
-questions and submit bugs:
-
-https://github.com/stat157/questionnaire/issues
 
 Hints For Success
 -----------------
