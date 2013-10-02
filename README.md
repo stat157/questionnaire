@@ -87,7 +87,7 @@ You'll need to follow these steps on your virtual machine to do data
 wrangling for this assignment:
 
     sudo apt-get install ipython ipython-notebook python-pip
-    pip install gspread
+    sudo pip install gspread
 
 Then copy the example config file to your home directory, but named
 `stat157.cfg` like this:
