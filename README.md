@@ -24,7 +24,8 @@ You will use the Stat 157 Questionnaire data that you will access
 using the Google API. Your primary objective is to visualize data from
 two columns of the spreadsheet data: 1) the column labeled "What is
 your learning style?" and 2) any other column of your choosing that
-you feel helps give us insight into the people in the class.
+you feel helps give us insight into the people in the class. [Question
+and clarification](https://github.com/stat157/questionnaire/issues/2).
 
 The data that we have available in the spreadsheet comes from the real
 world, which means the data is **dirty**. Your job before you
