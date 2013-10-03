@@ -107,6 +107,8 @@ be your [bConnected key](https://kb.berkeley.edu/campus-shared-services/page.php
 NOTE: Do **NOT** put your actual password into example.cfg! And
 definitely **DO NOT** check it into github!
 
+**UPDATE:** You might also be wondering [How to save your edit in vi](https://github.com/stat157/questionnaire/issues/3).
+
 Use `example.ipynb` in this repository as a starting point to access
 the Google Spreadsheet data. You should run the IPython Notebook in
 your virtual machine using this command:
