@@ -67,8 +67,8 @@ will be our method of determing the portion of your grade based on the
 end-product itself.
 
 The other portion of your grade will depend on the process of how you
-arrived at your end-product. Your process should be reproducible by
-someone else *without* further instructions or help from you. If you
+arrived at your end-product. **Your process MUST be reproducible by
+someone else *without* further instructions or help from you.** If you
 cannot fully automate the process, then provide step-by-step
 instructions.
 
