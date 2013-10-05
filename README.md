@@ -104,8 +104,14 @@ Edit the `~/stat157.cfg` config file so it will use your full
 @berkeley username, e.g.: `foobear@berkeley.edu`. The password should
 be your [bConnected key](https://kb.berkeley.edu/campus-shared-services/page.php?id=27226).
 
-NOTE: Do **NOT** put your actual password into example.cfg! And
+NOTE: 
+- Do **NOT** put your actual password into example.cfg! And
 definitely **DO NOT** check it into github!
+- Your new [bConnected key](https://kb.berkeley.edu/campus-shared-services/page.php?id=27226)
+should have a minimum length of 9 characters contain English uppercase,
+lowercase and numeric digits. ( **Do not** use Non-alphanumeric characters) 
+
+ 
 
 **UPDATE:** You might also be wondering [How to save your edit in vi](https://github.com/stat157/questionnaire/issues/3).
 
